@@ -1,0 +1,2 @@
+Using branches is a safe way for software engineers to collaborate because it lets everyone work on the project without affecting the main project. A branch creates an isolated environment where changes are made independently. This keeps unfinished or bad code from messing up the work of others and ensures that the main branch always has working code. Branches also make it easier to track project history.
+
